@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
