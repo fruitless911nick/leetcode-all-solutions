@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 ## Linked List
