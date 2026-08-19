@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
