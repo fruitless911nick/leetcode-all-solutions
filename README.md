@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
@@ -50,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
