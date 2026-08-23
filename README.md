@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
