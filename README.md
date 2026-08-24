@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
