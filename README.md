@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 | [1732-find-the-highest-altitude](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
