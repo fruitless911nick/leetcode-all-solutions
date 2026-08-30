@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
+| [0824-goat-latin](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
