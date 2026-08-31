@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1732-find-the-highest-altitude](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Memoization
 |  |
 | ------- |
