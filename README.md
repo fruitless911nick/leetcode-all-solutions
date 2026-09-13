@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0383-ransom-note) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Memoization
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0812-largest-triangle-area) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
