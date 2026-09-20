@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0812-largest-triangle-area) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1672-richest-customer-wealth](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
