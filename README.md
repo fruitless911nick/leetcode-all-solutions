@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
