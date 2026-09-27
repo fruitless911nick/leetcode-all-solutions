@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 | [0824-goat-latin](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0917-reverse-only-letters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
