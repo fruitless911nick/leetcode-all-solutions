@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 | [0824-goat-latin](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1768-merge-strings-alternately) |
@@ -162,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
