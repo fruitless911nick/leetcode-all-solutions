@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0917-reverse-only-letters) |
+| [0986-interval-list-intersections](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0812-largest-triangle-area) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1672-richest-customer-wealth](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1672-richest-customer-wealth) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
