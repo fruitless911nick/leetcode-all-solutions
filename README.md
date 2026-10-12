@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -216,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
