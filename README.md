@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -230,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0225-implement-stack-using-queues) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
