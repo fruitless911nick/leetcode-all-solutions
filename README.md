@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0705-design-hashset](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0705-design-hashset) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0705-design-hashset](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0705-design-hashset) |
 | [0812-largest-triangle-area](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0812-largest-triangle-area) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
