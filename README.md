@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0290-word-pattern) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
