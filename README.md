@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0705-design-hashset](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0705-design-hashset) |
 | [0812-largest-triangle-area](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0812-largest-triangle-area) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0812-largest-triangle-area](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2409-count-days-spent-together) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1200-minimum-absolute-difference](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
