@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0113-path-sum-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -264,10 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -276,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
