@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0904-fruit-into-baskets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Counting
 |  |
