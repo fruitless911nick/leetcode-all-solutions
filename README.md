@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/1768-merge-strings-alternately) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/0415-add-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/fruitless911nick/leetcode-all-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
